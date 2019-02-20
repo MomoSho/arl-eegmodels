@@ -1,3 +1,4 @@
+# Mo's version
 # Introduction
 This is the Army Research Laboratory (ARL) EEGModels project: A Collection of Convolutional Neural Network (CNN) models for EEG signal processing and classification, written in Keras and Tensorflow. The aim of this project is to
 
